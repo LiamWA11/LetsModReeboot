@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2472e319-9fa2-43ed-be9b-ded62e4e62db" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/CommonProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/CommonProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/IProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/IProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/LetsModReboot.java" afterPath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/LetsModReboot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LetsModReeboot.iws" afterPath="$PROJECT_DIR$/LetsModReeboot.iws" />
-    </list>
+    <list default="true" id="2472e319-9fa2-43ed-be9b-ded62e4e62db" name="Default" comment="" />
     <ignored path="LetsModReeboot.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
