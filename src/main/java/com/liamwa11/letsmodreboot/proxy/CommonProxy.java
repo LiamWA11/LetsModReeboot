@@ -1,6 +1,6 @@
 package com.liamwa11.letsmodreboot.proxy;
 
 
-
-public class CommonProxy implements IProxy {
+public abstract class CommonProxy implements IProxy
+{
 }

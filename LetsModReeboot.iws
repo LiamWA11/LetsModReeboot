@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2472e319-9fa2-43ed-be9b-ded62e4e62db" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/ClientProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/ClientProxy.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/CommonProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/CommonProxy.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/IProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/IProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LetsModReeboot.iml" afterPath="$PROJECT_DIR$/LetsModReeboot.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LetsModReeboot.ipr" afterPath="$PROJECT_DIR$/LetsModReeboot.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/LetsModReboot.java" afterPath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/LetsModReboot.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LetsModReeboot.iws" afterPath="$PROJECT_DIR$/LetsModReeboot.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/ServerProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/ServerProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
     </list>
     <ignored path="LetsModReeboot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,11 +64,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LetsModReboot.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="LetsModReboot.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/LetsModReboot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="680">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="68" max-vertical-offset="765">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,10 +76,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IProxy.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="IProxy.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/IProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1088" vertical-offset="0" max-vertical-offset="625">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
               <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
@@ -141,12 +135,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/LetsModReboot.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mcmod.info" />
         <option value="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/ServerProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/ClientProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/CommonProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/IProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/LetsModReboot.java" />
       </list>
     </option>
   </component>
@@ -708,16 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/LetsModReboot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="680">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/ServerProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
@@ -744,9 +728,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/proxy/IProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1088" vertical-offset="0" max-vertical-offset="625">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liamwa11/letsmodreboot/LetsModReboot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="68" max-vertical-offset="765">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
