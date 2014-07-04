@@ -19,10 +19,14 @@
     <option name="SKIP_IMPORT_STATEMENTS" value="false"/>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+=======
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false"/>
+>>>>>>> parent of b17ccb6... More Stuff
 =======
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false"/>
 >>>>>>> parent of b17ccb6... More Stuff
@@ -63,8 +67,11 @@
   </component>
   <component name="VcsDirectoryMappings">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
 =======
+=======
+>>>>>>> parent of b17ccb6... More Stuff
     <mapping directory="" vcs=""/>
   </component>
   <component name="masterDetails">
@@ -107,6 +114,9 @@
         </UIState>
       </state>
     </states>
+<<<<<<< HEAD
+>>>>>>> parent of b17ccb6... More Stuff
+=======
 >>>>>>> parent of b17ccb6... More Stuff
   </component>
 </project>
